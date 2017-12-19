@@ -1,0 +1,62 @@
+1. Registrasi
+
+2. Login
+
+3. Manajemen User
+  
+
+4. Surat Masuk
+   - Create
+   - Store
+   - Show
+   - Update
+   - Delete
+   - Destroy
+
+5. Surat Keluar
+   - Create
+   - Store
+   - Show
+   - Update
+   - Delete
+   - Destroy
+
+6. Unit Kerja
+   - Add Unit Kerja
+   - Buat default by sistem
+
+
+7. Profil
+   - Add Controll Profil
+   - Buat profil dg keterkaitan id_user // nama user
+   - buat default profil by system
+
+8. Pegawai
+   - create + upload foto
+   - update -> blm selesai
+   - show
+   - delete
+
+
+
+9. Jadwal
+   - Sorting by tgl rapat (harusnya)
+   - filter per unit kerja
+
+
+
+
+10. Chart
+   - Menggunakan fungsi this time -> ambil tahun
+   - Menggunakan filter bulan && this year
+   - Ambil jumlah data masing-masing surat masuk dan surat keluar
+
+
+11. Routing
+   - user g bisa akses url admin
+
+
+
+12. Unit Kerja --> perlu super admin harusnya
+
+
